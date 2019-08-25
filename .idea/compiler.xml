@@ -10,7 +10,7 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="bfa-aws-queue" target="1.8" />
+      <module name="bfa-aws-queue" target="1.12" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
